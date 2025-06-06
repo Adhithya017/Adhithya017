@@ -1,4 +1,4 @@
-# Hi, I'm Adhiii
+# Hi, I'm Adhithya
 
 💻 Engineering student passionate about coding and technology<br/>
 🌍 Web developer skilled in HTML, CSS, JavaScript, Node.js, React.js, Next.js, Express.js, and MongoDB<br/>
